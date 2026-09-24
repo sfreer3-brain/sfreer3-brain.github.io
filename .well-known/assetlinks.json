@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.sfreer3_brain.twa",
+    "sha256_cert_fingerprints": ["D9:EA:20:C1:1D:86:74:25:DA:B4:62:C1:2F:A2:CC:BA:8E:4E:7B:B6:6A:8C:AE:82:47:18:44:48:B6:58:F0:30"]
+  }
+}]
