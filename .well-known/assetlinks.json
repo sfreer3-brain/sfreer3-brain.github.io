@@ -12,7 +12,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "it.lloydvaresino.bussola",
-      "sha256_cert_fingerprints": ["A7:B0:0B:DA:9F:0E:63:2D:A2:C1:6A:A5:E7:53:AF:61:B2:1C:86:03:3C:B1:1C:0F:F9:6B:CE:0E:B0:DB:5E:A6"]
+      "sha256_cert_fingerprints": ["5E:E0:8D:8D:FB:DE:01:1B:08:88:58:9A:0F:FC:A4:5C:3B:50:3E:48:54:5B:79:06:BB:B8:D6:34:BD:D7:E3:3E"]
     }
   }
 ]
